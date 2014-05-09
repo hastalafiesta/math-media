@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Media</string>
+    <string name="ok">OK</string>
+    <string name="btn">Continua</string>
+    <string name="hint">Inserisci quantità di numeri</string>
+
+</resources>
